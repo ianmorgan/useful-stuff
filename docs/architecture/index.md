@@ -2,5 +2,5 @@
 
 Various architecture and design topics
 
-* [DDD] (ddd)
+* [DDD](ddd)
 

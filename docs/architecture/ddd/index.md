@@ -1,3 +1,3 @@
 # Domain Driven Design (DDD)
 
-* [https://www.infoq.com/articles/events-workflow-automation]
+* [Correography vs Orchestration](https://www.infoq.com/articles/events-workflow-automation)
