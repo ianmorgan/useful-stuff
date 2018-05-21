@@ -11,3 +11,7 @@ A temporary holding place for new content.
 [Experiences with Kotlin](http://www.natpryce.com/articles/000815.html)
 
 [Overly finicky messages](http://www.natpryce.com/articles/000816.html)
+
+## Languages 
+
+[Java -> Kotlin cheat sheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
