@@ -15,3 +15,8 @@ A temporary holding place for new content.
 ## Languages 
 
 [Java -> Kotlin cheat sheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+
+## Event sourcing 
+
+[Kafka for event sourcing]()https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
