@@ -16,7 +16,8 @@ A temporary holding place for new content.
 
 [Java -> Kotlin cheat sheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
-## Event sourcing 
+## Event sourcing & Lamda Architecures
 
 [Kafka for event sourcing](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
+[Info on Lamba + Streams](https://www.infoq.com/presentations/lambda-streams-delta)
