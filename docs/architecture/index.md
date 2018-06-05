@@ -4,4 +4,4 @@ Various architecture and design topics:
 
 * [Beam Model](beam-model)
 * [DDD](ddd)
-* [Self Contained System](scs-architecture)
+* [Self-Contained Systems](scs-architecture)
