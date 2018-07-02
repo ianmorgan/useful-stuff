@@ -2,5 +2,5 @@
 # Event Sourcing 
 
 
-* [Versioning Events (eBook)]()https://leanpub.com/esversioning/read)
+* [Versioning Events (eBook)](https://leanpub.com/esversioning/read)
 
