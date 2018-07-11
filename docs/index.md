@@ -3,7 +3,7 @@
 Random collection of useful bits and bobs
 
 * [Architecture & Design](architecture)
-* [Docker](docker)
+* [Devops](devops)
 * [GIT](git)
 * [Testing](testing)
 
