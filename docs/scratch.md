@@ -18,6 +18,4 @@ A temporary holding place for new content.
 
 ## Event sourcing & Lamda Architecures
 
-[Kafka for event sourcing](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-
 [Info on Lamba + Streams](https://www.infoq.com/presentations/lambda-streams-delta)
