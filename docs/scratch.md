@@ -14,7 +14,6 @@ A temporary holding place for new content.
 
 ## Languages 
 
-[Java -> Kotlin cheat sheet](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
 ## Event sourcing & Lamda Architecures
 
