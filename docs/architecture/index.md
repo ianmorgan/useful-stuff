@@ -8,3 +8,5 @@ Various architecture and design topics:
 * [GraphQL](graphql)
 * [Orchestration](orchestration)(anything to do with workflows, process managers, flows etc)
 * [Self-Contained Systems](scs-architecture)
+* [Web UI](web-ui)
+
