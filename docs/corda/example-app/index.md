@@ -29,3 +29,10 @@ port 10015 for PartyC
 flow start ExampleFlow$Initiator iouValue: 50, otherParty: "O=PartyB,L=New York,C=US"
 ```
 
+### Useful command 
+
+running notary from command line
+
+```bash
+java -jar corda.jar --no-local-shell --log-to-console
+```
